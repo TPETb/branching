@@ -1,0 +1,11 @@
+{
+  "name": "tpetb/branching",
+  "description": "Helps to implement branching strategy",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Alex aka TPETb Tretyakov",
+      "email": "alextret@gmail.com"
+    }
+  ]
+}

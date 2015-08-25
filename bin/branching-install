@@ -1,0 +1,1 @@
+ln -s vendor/tpetb/branching/hooks/10-pre-commit .git/hooks/pre-commit
